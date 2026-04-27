@@ -1,5 +1,4 @@
 # Coffee Shop Sales Performance Dashboard
-![Coffee Shop Sales Dashboard](images/Coffeee_profile_pic.png)
 ## Overview
 This project analyzes sales performance across multiple coffee shop locations using Excel. It transforms raw transactional data into an interactive dashboard that provides insights into revenue trends, customer behavior, product performance, and peak transaction periods.
 
